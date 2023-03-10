@@ -9,4 +9,4 @@ Right Click on the .py program
 Launch Python Launcher
 Write out your email
 Press enter
-Receive your new usernmae
+Receive your new username
